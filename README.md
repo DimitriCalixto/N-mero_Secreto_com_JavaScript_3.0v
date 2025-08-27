@@ -1,0 +1,2 @@
+# N-mero_Secreto_com_JavaScript_3.0v
+O jogo consiste em adivinhar o número. Um espécie de narrador te guiara durando as adivinhações.
